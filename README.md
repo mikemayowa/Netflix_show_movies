@@ -30,11 +30,10 @@ Python libraries such as Seaborn, Matplotlib, and Pyplot were utilized to create
 To integrate R into the analysis, the dataset was exported to a CSV file for use in R. Visualizations in R could be implemented using libraries such as ggplot2 or plotly.
 
 # File Structure
-netflix_dataset.zip: The compressed dataset provided for analysis.
-netflix_data.csv: The dataset containing information about TV shows and movies on Netflix.
-netflix_data_for_R.csv: Dataset exported for use in R.
-main_script.py: Python script containing code for data preparation, cleaning, exploration, and visualization.
-
-README.md: This README file providing an overview of the project.
+`netflix_dataset.zip`: The compressed dataset provided for analysis.
+`netflix_data.csv`: The dataset containing information about TV shows and movies on Netflix.
+`netflix_data_for_R.csv`: Dataset exported for use in R.
+`main_script.py`: Python script containing code for data preparation, cleaning, exploration, and visualization.
+`README.md`: This README file providing an overview of the project.
 
 
