@@ -15,9 +15,11 @@ Instructions
 The first step involves unzipping the provided dataset and renaming it to "Netflix_shows_movies". This was done using the following Python code:
 
 `import zipfile`
+
 `import os`
 
 `with zipfile.ZipFile('netflix_dataset.zip', 'r') as zip_ref:`
+
     `zip_ref.extractall('Netflix_shows_movies')`
 
 # Data Exploration
