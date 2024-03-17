@@ -26,7 +26,7 @@ The first step involves unzipping the provided dataset and renaming it to "Netfl
 Data exploration tasks were performed to generate data descriptions and conduct statistical analysis. Descriptive statistics such as mean, median, and standard deviation were computed to understand the distribution of the data.
 
 # Data Visualization
-Python libraries such as Seaborn, Matplotlib, and Pyplot were utilized to create visualizations representing the most watched genres and the distribution of ratings on Netflix. Sample code for visualization was provided in the main script file.
+Python libraries such as Seaborn, Matplotlib, and Pyplot can be utilized to create visualizations representing the most watched genres and the distribution of ratings on Netflix. Sample code for visualization was provided in the main script file.
 
 # R Integration
 To integrate R into the analysis, the dataset was exported to a CSV file for use in R. Visualizations in R could be implemented using libraries such as ggplot2 or plotly.
